@@ -3,7 +3,7 @@ I worked for some (at least for people living in the Netherlands) well-known con
 
 I have worked with a lot of traditional testautomation tools but currently I am mostly working with open source tools, such as Cucumber, jMeter and Robot Framework.
 
-In my career I have presented on the (Dutch) Testautomation Days and TestNet Voorjaarsevent and TestNet Najaarsevent.
+In my career I have presented on the (Dutch) [Testautomation Days](https://www.testautomationdays.com/), [Nederlandse Testdag](https://www.testdag.nl/) and TestNet Voorjaarsevent and TestNet Najaarsevent.
 
 I am part of the editorial team of the Dutch Association of Testers, TestNet. One of my roles in this team is to publish an article quarterly. 
 For some years now I write these articles about Testautomation. Because these articles are written in Dutch, my first aim with this blog is to make these articles available in English.
