@@ -1,6 +1,7 @@
 ---
 layout:       post
-title:        "Good testers are not good testautomation engineers. So what?"
+title:        "Good testers are not good testautomation engineers"
+subtitle:     "So what?"
 author:       "John Kronenberg"
 date:       2022-10-23 10:00:00
 header-img: "img/post-bg-2015.jpg"
