@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: testautomate-it
+disqus_username: automate-it
 
 # Netease settings
 netease_comment: false
