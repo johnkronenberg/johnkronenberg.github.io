@@ -8,3 +8,5 @@ iframe: "https://testdag2019.github.io/pdf/john_kronenberg.pdf"
 tags: [testautomation,event,presentation,pdf,SDET]
 ---
 This presentation was given at the Dutch TestingDay 2019 and it was based on two articles about Testers vs Software Developers In Test. 
+
+https://testdag2019.github.io/pdf/john_kronenberg.pdf
