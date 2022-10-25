@@ -7,6 +7,7 @@ author: "John Kronenberg"
 header-img: "img/trains.jpg"
 tags: [testautomation, TestNet, SDET]
 ---
+
 My previous article in [TestNetNieuws](https://www.testnet.org/nieuwsmagazine/) entitled '[Good testers are not good testautomation engineers. So what?](https://www.testautomate-it.com/2022/10/23/goodtesters/)' has, for me somewhat surprisingly, received a lot of reads, likes and comments. I probably touched with that article a topic very much alive in our testing community. While that article was mainly about the fact that good testers don't have to be good testautomation engineers to be of value to projects, this article sheds light on the other side: how could "progressive" testautomation engineers (maybe they should) position themselves in the market? I will explain my choice on the basis of a role description that may be new to many: 'Software Engineer in Test'.
 
 It's been a while since I changed the role description in my LinkedIn profile to 'Software Engineer in Test'. I made this decision after listening to a podcast with Andrew Knight ([Test & Code episode 47](https://testandcode.com/47). In this interview, Andrew describes his reasons for changing the role description in his LinkedIn profile. Analyzing the title 'Software Engineer In Test' it says exactly what I do in my working life: I use my Development skills to provide software solutions to test problems. A 'Software Engineer in Test' therefore moves between the field of testing on the one hand and the field of programming on the other. Exactly as shown in the picture below.
