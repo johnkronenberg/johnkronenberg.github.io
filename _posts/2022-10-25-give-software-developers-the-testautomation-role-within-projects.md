@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "give software developers the testautomation role within projects"
+title: "Software developers implements testautomation"
 subtitle: "A threat or an opportunity?"
 date: 2022-10-25
 author: "John Kronenberg"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/trains2.jpg"
 tags: [SDET, testautomation, TestNet]
 ---
 
