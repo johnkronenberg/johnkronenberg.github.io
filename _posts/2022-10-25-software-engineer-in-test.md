@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SOFTWARE ENGINEER IN TEST"
-subtitle: "A \'new\' role description for progressive testautomation engineers"
+subtitle: "A new role description for progressive testautomation engineers"
 date: 2022-10-25
 author: "John Kronenberg"
 header-img: "img/trains.jpg"
