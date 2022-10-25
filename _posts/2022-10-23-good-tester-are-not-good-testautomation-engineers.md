@@ -4,6 +4,7 @@ title: "\"Good testers\" presentation, Nederlandse Testdag 2019"
 subtitle: "20 November 2019"
 date: 2022-10-23
 author: "John Kronenberg"
+header-img: "img/bg2.jpg"
 tags: [testautomation,event,presentation,pdf,SDET]
 ---
 [https://testdag2019.github.io/pdf/john_kronenberg.pdf](https://testdag2019.github.io/pdf/john_kronenberg.pdf)
