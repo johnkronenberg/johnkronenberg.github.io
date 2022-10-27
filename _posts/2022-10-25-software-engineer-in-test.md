@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "SOFTWARE ENGINEER IN TEST"
+title: "Software Engineer in Test"
 subtitle: "A new role description for progressive testautomation engineers"
 date: 2022-10-25
 author: "John Kronenberg"
-header-img: "img/trains.jpg"
+header-img: "img/trains2.jpg"
 tags: [testautomation, TestNet, SDET]
 ---
 
