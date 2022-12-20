@@ -1,4 +1,4 @@
-I am [John Kronenberg](mailto:john.kronenberg@testautomate-it.com), since 1997 working in the Testautomation field. 
+I am [John Kronenberg](mailto:john@testautomate-it.com), since 1997 working in the Testautomation field. 
 I worked for some (at least for people living in the Netherlands) well-known consultancy companies (CMG, Bartosz ICT) and I am currently working for [CloseSure](https://www.closesure.nl).
 
 I have worked with a lot of traditional testautomation tools but currently I am mostly working with open source tools, such as Cucumber, jMeter and Robot Framework.
@@ -11,4 +11,4 @@ Main reason is because I think these articles are also interesting for non-Dutch
 
 Let's explore with you, readers of this blog, what this blog can be and can become...
 
-You can contact me via email at [john.kronenberg@testautomate-it.com](mailto:john.kronenberg@testautomate-it.com).
+You can contact me via email at [john@testautomate-it.com](mailto:john@testautomate-it.com).
