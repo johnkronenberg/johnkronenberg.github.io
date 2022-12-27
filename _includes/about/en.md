@@ -11,4 +11,4 @@ Main reason is because I think these articles are also interesting for non-Dutch
 
 Let's explore with you, readers of this blog, what this blog can be and can become...
 
-You can contact me via email at [john@testautomate-it.com](mailto:john@testautomate-it.com).
+You can contact me via email at [john@testautomate-it.com](mailto:john@testautomate-it.com). Take also a look here: https://linktr.ee/testautomate_it.
