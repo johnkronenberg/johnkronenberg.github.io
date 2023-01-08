@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-G23PBCJFVK" # Format: UA-xxxxxx-xx
-ga_domain: testautomate-it.com
+ga_domain: www.testautomate-it.com
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
