@@ -33,6 +33,8 @@ I believe that there are (should be) a lot of opportunities for well-trained, mo
 
 When I started my career as a test automation engineer, [TestFrame](https://nl.wikipedia.org/wiki/TestFrame) was very hot. Within TestFrame there was a clear delineation of the roles of tester and testautomation engineer. The tester ("testanalist") was responsible for creating the Excel sheets with action words and the test engineer ("testnavigator") was programming the action words. This is a very powerful division of roles. I wish the field would realize that, while with sufficient understanding of the work of testautomation engineers, testers should be doing what they have become good at, testing, and not be forced to take on a role that doesn't fit well for them. That is to the benefit of the entire testing community. Both testing and test automation as a profession are then taken seriously (again).
 
+---
+
 This article is also published in Dutch in the TestNetNieuws from the Dutch Association for Testers, TestNet, on 10th July 2019.
  
 [https://www.testnet.org/artikelen/goede-testers-zijn-geen-goede-testautomatiseerders-so-what/](https://www.testnet.org/artikelen/goede-testers-zijn-geen-goede-testautomatiseerders-so-what/)
