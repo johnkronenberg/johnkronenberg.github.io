@@ -215,9 +215,10 @@
                 showTypingIndicator(false);
                 
                 // Voeg het antwoord van de bot toe aan de chat
-                if (data && data.response) {
-                    addMessage(data.response);
+                if (data && data.output) {
+                    addMessage(data.output);
                 } else {
+					console.error("Data structure issue:", data);
                     addMessage("An error occurred while processing your message.");
                 }
             } catch (error) {
